@@ -8,9 +8,7 @@ int main()
 		{
 			printf("%dx%d=%d ", i,j,i*j);
 		}
-
  		printf("\n");
 	}
-
 	return 0;
 }
